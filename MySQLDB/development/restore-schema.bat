@@ -1,0 +1,1 @@
+mysql --defaults-extra-file=settings.cnf -u root hrms_development < "temp\\schema.sql"
